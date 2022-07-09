@@ -18,6 +18,9 @@ Here is the modules list that i have added in my project interpreter. You will a
 ### Note:
 *** Make sure to change the local paths of the directories that were used in my project to your own local paths *** 
 
+# project structure screenshot
+<img width="244" alt="Project_structure" src="https://user-images.githubusercontent.com/61515279/178119312-850d68ad-c3db-40dc-a340-196b223fbadb.PNG">
+
 
 # Libraries:
 1. Opencv
